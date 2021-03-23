@@ -1,0 +1,17 @@
+{
+  "name": "maze-cypress-challenge",
+  "description": "Maze cypress interview challenge starter",
+  "version": "1.0.0",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazedesignhq/maze-cypress-challenge.git"
+  },
+  "dependencies": {
+    "cypress": "^6.8.0"
+  }
+}
